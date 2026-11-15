@@ -24,7 +24,14 @@ Download the latest Windows build from the repository's **Releases** page.
 
 ## Screenshots
 
-Screenshots will be added here once available.
+### Main dashboard
+![DiskSpace Analyzer Dashboard](assets/screenshots/dashboard.png)
+
+### Scan results
+![DiskSpace Analyzer Scan Results](assets/screenshots/scan-results.png)
+
+### Settings
+![DiskSpace Analyzer Settings](assets/screenshots/settings.png)
 
 ## Reporting bugs and suggesting features
 
