@@ -1,5 +1,9 @@
 # DiskSpace Analyzer
 
+[![Latest Release](https://img.shields.io/github/v/release/sinnes7kx/DiskSpace-Analyzer?label=Latest%20Version)](https://github.com/sinnes7kx/DiskSpace-Analyzer/releases/latest)
+
+[![Download DiskSpace Analyzer](https://img.shields.io/badge/Download-Windows-blue?logo=windows)](https://github.com/sinnes7kx/DiskSpace-Analyzer/releases/latest)
+
 **DiskSpace Analyzer** is a Windows desktop utility for exploring disk usage and finding out what is taking up space on your drives.
 
 > **Latest packaged version:** 1.6.2  
@@ -25,13 +29,10 @@ Download the latest Windows build from the repository's **Releases** page.
 ## Screenshots
 
 ### Main dashboard
-![DiskSpace Analyzer Dashboard](assets/screenshots/dashboard.png)
+![DiskSpace Analyzer Dashboard](https://i.imgur.com/TH2Ytg1.png)
 
 ### Scan results
-![DiskSpace Analyzer Scan Results](assets/screenshots/scan-results.png)
-
-### Settings
-![DiskSpace Analyzer Settings](assets/screenshots/settings.png)
+![DiskSpace Analyzer Scan Results](https://i.imgur.com/xO4DxL7.png)
 
 ## Reporting bugs and suggesting features
 
