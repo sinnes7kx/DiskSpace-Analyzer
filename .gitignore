@@ -1,0 +1,36 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python packaging / generated outputs
+build/
+dist/
+*.egg-info/
+
+# Installer and executable artifacts (attach to GitHub Releases)
+*.exe
+*.msi
+*.zip
+
+# Editor, OS, local settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+
+# Local user data and scan output
+*.db
+*.sqlite
+*.sqlite3
