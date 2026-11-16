@@ -6,7 +6,7 @@
 
 **DiskSpace Analyzer** is a Windows desktop utility for exploring disk usage and finding out what is taking up space on your drives.
 
-> **Latest packaged version:** 1.6.2  
+> **Latest packaged version:** 1.6.3  
 > **Platform:** Windows  
 > **Distribution:** Standalone `.exe` download
 
@@ -16,7 +16,7 @@ Download the latest Windows build from the repository's **Releases** page.
 
 1. Open **Releases** on the right-hand side of the GitHub repository.
 2. Select **v1.6.2** (or a newer release).
-3. Download `DiskSpace Analyzer 1.6.2.zip` and extract it.
+3. Download `DiskSpace Analyzer 1.6.3.zip` and extract it.
 4. Run `DiskSpaceAnalyzer.exe`.
 
 > This application is distributed as a Windows executable. This repository may not yet include its original Python source code.
@@ -44,11 +44,11 @@ If you'd like to support development, you can [donate via PayPal](https://www.pa
 
 ## Source code and licensing
 
-The current v1.6.2 distribution supplied for this repository contains a compiled executable only. **No open-source license has been selected or granted in this repository.** If source code is published later, its licensing and build instructions will be documented here.
+The current v1.6.3 distribution supplied for this repository contains a compiled executable only. **No open-source license has been selected or granted in this repository.** If source code is published later, its licensing and build instructions will be documented here.
 
 ## Checksums
 
-For the supplied v1.6.2 executable, SHA-256:
+For the supplied v1.6.3 executable, SHA-256:
 
 ```
 69aedcba2b9a371a0fb85dd772f340a2a3b3e27fdb3bc177d2a9a0571451a8f1
