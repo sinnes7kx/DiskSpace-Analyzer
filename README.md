@@ -15,7 +15,7 @@
 Download the latest Windows build from the repository's **Releases** page.
 
 1. Open **Releases** on the right-hand side of the GitHub repository.
-2. Select **v1.6.2** (or a newer release).
+2. Select **v1.6.3** (or a newer release).
 3. Download `DiskSpace Analyzer 1.6.3.zip` and extract it.
 4. Run `DiskSpaceAnalyzer.exe`.
 
