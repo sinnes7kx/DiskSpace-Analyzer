@@ -14,8 +14,6 @@ Dismissed versions are remembered; a manual check can show the notice again.
 Network failures do not open error dialogs. No scanned file information is sent.
 Version tags compare numerically, so 1.6.10 correctly follows 1.6.9.
 
-Retains all 1.6.2 fixes below. See VERIFICATION.md for checks and limitations.
-
 DISKSPACE ANALYZER 1.6.2 FREE - 16 November 2026
 =============================================
 
